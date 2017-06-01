@@ -25,5 +25,5 @@
     document.getElementById('wins').innerHTML = "Wins: " + wins;
     document.getElementById('losses').innerHTML = "Losses: " + losses;
     document.getElementById('guesses').innerHTML = "Guesses Left: " + guesses;
-    document.getElementById('count').innerHTML = "You Guesses so far: " + 
+    document.getElementById('count').innerHTML = "You Guesses so far: " + count;
     }
